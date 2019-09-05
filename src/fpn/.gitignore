@@ -1,0 +1,27 @@
+
+data/*
+output/
+runs/
+weights/
+*.sbatch
+
+# compilation
+*.so
+*.a
+.idea/
+
+*.cu.o
+
+# MacOSX
+.DS_Store
+._.DS_Store
+
+# Editable python installation
+*.egg-info
+
+# Torch Extension Build
+_ext
+
+ # Python cache
+__pycache__
+*.pyc

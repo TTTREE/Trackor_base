@@ -1,0 +1,27 @@
+*.so
+*.pyc
+*.cu.o
+output
+tensorboard
+lib/build
+lib/pycocotools
+lib/pycocotools/_mask.c
+lib/pycocotools/_mask.so
+.idea
+
+
+# MacOSX
+.DS_Store
+._.DS_Store
+
+# Editable python installation
+*.egg-info
+
+# Torch Extension Build
+_ext
+
+# Python cache
+__pycache__
+
+# MacOSX proably from sshfs
+._*

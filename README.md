@@ -18,7 +18,7 @@ Extract in *output* directory.
 
 1.`git clone https://github.com/TTTREE/Trackor_base.git`  
 `cd Trackor_base`  
-根据需要可修改 experiments/cfgs/tracktor.yaml  
+根据需要可修改 *experiments/cfgs/tracktor.yaml*  
 2.`python temp_main.py`
 
 本项目仅供学习参考，后续会改进。
